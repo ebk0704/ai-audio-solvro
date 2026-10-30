@@ -136,9 +136,6 @@ Programy zapisują wygenerowane nagrania i wykresy w folderze `outputs`.
 
 ## Podsumowanie
 
-
-## Podsumowanie
-
 Dzięki realizacji projektu lepiej zrozumiałem, czym jest
 spektrogram i jak działa transformata STFT.
 
