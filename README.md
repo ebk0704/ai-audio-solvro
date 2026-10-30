@@ -136,4 +136,16 @@ Programy zapisują wygenerowane nagrania i wykresy w folderze `outputs`.
 
 ## Podsumowanie
 
-Dzięki realizacji projektu le
+
+## Podsumowanie
+
+Dzięki realizacji projektu lepiej zrozumiałem, czym jest
+spektrogram i jak działa transformata STFT.
+
+Nauczyłem się analizować nagrania, usuwać wybrane
+częstotliwości oraz porównywać wyniki za pomocą
+obliczeń, wykresów i odsłuchu.
+
+Najciekawszą obserwacją było dla mnie to, że
+mogłem usunąć znaczną część energii nagrania,
+a mimo to nadal rozumieć wypowiadane słowa.
